@@ -1,0 +1,57 @@
+==============================================================================
+NIFTY50 HISTORICAL TREND & VOLATILITY -- BUSINESS INSIGHTS
+==============================================================================
+Analysis period: 01 Jan 2010 to 05 Feb 2026  (4,200 trading days)
+
+1. OVERALL PERFORMANCE
+------------------------------------------------------------------------------
+- NIFTY50 moved from 5,200.00 to 21,118.37 over the period, an overall change of 306.12%.
+- The index averaged a daily return of 0.0436% per trading day, with daily moves ranging from -9.97% to 7.31%.
+- Average daily traded volume was 273.6 million shares, worth an average turnover of 42,654.0 INR Crores.
+
+2. YEARLY PERFORMANCE
+------------------------------------------------------------------------------
+- Best year: 2012 with a return of 111.03% (average VIX 25.29).
+- Worst year: 2016 with a return of -40.73% (average VIX 31.78).
+- Year-by-year returns: 2010: 18.84%, 2011: 33.85%, 2012: 111.03%, 2013: 46.65%, 2014: -5.34%, 2015: -0.06%, 2016: -40.73%, 2017: -5.77%, 2018: -6.64%, 2019: 0.59%, 2020: -3.14%, 2021: 18.38%, 2022: -19.89%, 2023: 17.46%, 2024: 31.53%, 2025: 11.49%, 2026: 2.57%
+
+3. SEASONALITY (BY CALENDAR MONTH)
+------------------------------------------------------------------------------
+- May has historically been the strongest month, averaging 0.1342% per day.
+- October has historically been the weakest month, averaging -0.0928% per day.
+
+4. VOLATILITY & MARKET SENTIMENT
+------------------------------------------------------------------------------
+- Bearish days: 2502 days (avg VIX 30.47, avg return -0.0443%).
+- Bullish days: 479 days (avg VIX 17.00, avg return 0.3051%).
+- Neutral days: 1132 days (avg VIX 20.04, avg return 0.1179%).
+- Unknown days: 87 days (avg VIX 25.95, avg return 0.1653%).
+- India VIX and daily returns are inversely correlated (correlation = -0.05), meaning higher fear tends to line up with weaker/negative returns.
+- The single most volatile trading day was 02 Oct 2017, with a -9.97% move and an India VIX of 49.73.
+
+5. SECTOR TRENDS
+------------------------------------------------------------------------------
+- Banking was the most frequent top-performing sector, leading on 861 days (20.5% of all days).
+- IT was the second most frequent top sector, leading on 736 days.
+
+6. RELATIONSHIPS BETWEEN INDICATORS
+------------------------------------------------------------------------------
+- Close price and Turnover are correlated at 0.72, suggesting trading value tends to rise alongside the index level.
+- Full correlation figures between Close, Volume, Turnover, RSI, India VIX, Advance/Decline Ratio and Daily Return are visualized in the correlation heatmap (see outputs/graphs/07_heatmap_correlation.png and the PDF report).
+
+7. TOP 5 MOST VOLATILE TRADING DAYS
+------------------------------------------------------------------------------
+- 02 Oct 2017: Close 13,536.98, return -9.97%, VIX 49.73, sentiment Bearish.
+- 01 Jul 2016: Close 25,285.71, return -9.53%, VIX 35.63, sentiment Bearish.
+- 13 Sep 2017: Close 14,261.63, return -9.29%, VIX 42.28, sentiment Bearish.
+- 03 Oct 2013: Close 22,872.12, return -8.55%, VIX 24.58, sentiment Bearish.
+- 06 Feb 2025: Close 20,480.65, return 7.31%, VIX 25.76, sentiment Bearish.
+
+8. KEY TAKEAWAYS
+------------------------------------------------------------------------------
+- Overall index change across the full period: 306.12%.
+- Strongest year: 2012 (111.03%). Weakest year: 2016 (-40.73%).
+- Banking led the market most often.
+- Elevated India VIX levels line up with larger daily price swings, which is consistent with VIX's role as a volatility/fear gauge.
+
+==============================================================================

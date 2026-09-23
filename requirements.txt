@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+mysql-connector-python
+SQLAlchemy
+python-dotenv
+jupyter
+notebook
+ipykernel
+reportlab
