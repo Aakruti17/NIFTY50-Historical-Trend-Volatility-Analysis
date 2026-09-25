@@ -78,10 +78,7 @@ NIFTY50_Analysis_Project/
 │   ├── 03_data_extraction_queries.sql  # SELECT / WHERE / ORDER BY examples
 │   ├── 04_joins_aggregations.sql    # GROUP BY + JOIN examples
 │   └── 05_analysis_queries.sql      # Window functions, rankings, streaks, RSI signals
-├── notebooks/
-│   └── NIFTY50_EDA.ipynb            # The full walkthrough notebook (cleaning + EDA + charts)
-├── powerbi/
-│   └── PowerBI_Dashboard_Guide.md   # Step-by-step guide to building the .pbix dashboard
+├── nifty.pbix
 ├── main.py                          # Runs the entire pipeline end-to-end
 ├── requirements.txt
 └── README.md
